@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+}
+
+.intro {
+    background-image: url('../../assets/img/bg.jpg');
+
+    height: 100%;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.content {
+    background-image: url('../../assets/img/discover.png');
+
+    height: 100%;
+    width: 100%;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
