@@ -22,3 +22,8 @@ body, html {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.discover {
+    padding-top: 25%;
+    padding-left: 40%;
+}
