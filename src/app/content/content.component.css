@@ -3,24 +3,23 @@ body, html {
 }
 
 .intro {
-    background-image: url('../../assets/img/bg.jpg');
+    background-image: url('../../assets/img/sam.jpeg');
 
     height: 100%;
-    
+
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .content {
-    background-image: url('../../assets/img/discover.png');
+    background-image: url('../../assets/img/photo.jpg');
 
     height: 100%;
     width: 100%;
-    
-    background-size: cover;
+
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: left;
 }
 
 .discover {
